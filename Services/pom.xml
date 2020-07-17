@@ -41,6 +41,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-
+		<finalName>BootAngular</finalName>
 	</build>
 </project>
