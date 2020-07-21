@@ -1,1 +1,1 @@
-web java -Dserver.port=$PORT $JAVA_OPTS -jar target/BootAngular.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar Services/target/BootAngular.jar
